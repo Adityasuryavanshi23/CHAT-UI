@@ -8,13 +8,13 @@ A chat interface UI built using React, TailwindCSS and Lucide Icons with AI assi
 ##screenshots
 
 ###Homepage Dark&Light mode
-![Home](src/assests/screenshots/Ui-light-mode-landing-page.png)
+![Home](src/assets/screenshots/Ui-light-mode-landing-page.png)
 
 ##ChatUi
-![Chat](src/assests/screenshots/inbox-message-lightmode.png)
+![Chat](src/assets/screenshots/inbox-message-lightmode.png)
 
 ##Responsive layout
-![Responisve](src/assests/screenshots/responsive.png)
+![Responisve](src/assets/screenshots/responsive.png)
 
 
 
