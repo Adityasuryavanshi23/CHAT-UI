@@ -1,12 +1,34 @@
-# React + Vite
+# Beyond Chat - AI Inbox Chat UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A chat interface UI built using React, TailwindCSS and Lucide Icons with AI assistant on the right panel.
 
-Currently, two official plugins are available:
+## 🔗 Live Site
+[Click to Visit](https://chatui-ap.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Inbox sidebar with responsive toggle
+- messaging functionality
+- dark Mode toggle feature (by default light mode , toggle it to dark violet theme (shadui) )
+- Animated message box (limited dummy message inbox)
+- AI co-pilot suggestion system (with dummy message data)
+- Fully responsive layout
 
-## Expanding the ESLint configuration
+## 📁 Folder Structure
+src/
+┣ components/
+┃ ┣ MessageBox.jsx
+┃ ┣ Sidebar.jsx
+┃ ┣ RightPanel.jsx
+┃ ┗ ...
+┣ App.jsx
+┣ index.jsx
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🛠️ Tech Stack
+- React
+- Tailwind CSS / Flowbite {component library}
+- ShadCN UI
+- Framer Motion
+- Netlify
+
+
