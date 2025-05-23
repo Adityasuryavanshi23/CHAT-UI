@@ -5,6 +5,14 @@ A chat interface UI built using React, TailwindCSS and Lucide Icons with AI assi
 ## 🔗 Live Site
 [Click to Visit](https://chatui-ap.netlify.app/)
 
+##screenshots
+
+###Homepage Dark&Light mode
+![Home](src/assests/Ui Screenshots/Ui light mode landing page.png)
+
+##ChatUi
+![Chat](src/assests/Ui Screenshots/inbox message lightmode.png)
+
 ## 🚀 Features
 - Inbox sidebar with responsive toggle
 - messaging functionality
