@@ -17,7 +17,6 @@ function App() {
         <Sidebar openSidebar={openSidebar} setOpenSidebar={setOpenSidebar} />
         <div className="flex-[2] bg-gray-800/10 h-screen">
           <MessageBox />
-         <h1>hello aditya</h1>
         </div>
         <div
           className={`flex-1 ${openCopilot ? "max-sm:block" : "max-sm:hidden"}`}
