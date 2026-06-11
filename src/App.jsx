@@ -18,6 +18,7 @@ function App() {
         <div className="flex-[2] bg-gray-800/10 h-screen">
           <MessageBox />
         </div>
+        <h1>helo</h1>
         <div
           className={`flex-1 ${openCopilot ? "max-sm:block" : "max-sm:hidden"}`}
         >
