@@ -16,7 +16,7 @@ function App() {
       <div className="min-h-screen flex dark-gradient">
         <Sidebar openSidebar={openSidebar} setOpenSidebar={setOpenSidebar} />
         <div className="flex-[2] bg-gray-800/10 h-screen">
-          
+          hello
           
         </div>
         <div
