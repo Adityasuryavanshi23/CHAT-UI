@@ -20,6 +20,7 @@ function App() {
         <div
           className={`flex-1 ${openCopilot ? "max-sm:block" : "max-sm:hidden"}`}
         >
+          hello wrod
           <RightPanel
             setOpenCopilot={setOpenCopilot}
             openCopilot={openCopilot}
